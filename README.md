@@ -57,7 +57,5 @@ source venv/bin/activate
 
 pip install -r requirements.txt #[for installing the needed libs for support of running app]
 ```
-
-## ## Download windows app [.exe]
-```
-go to release section and download zip file
+## Tip:
+** you csn make python file into .exe
