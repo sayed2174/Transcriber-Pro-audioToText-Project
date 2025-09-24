@@ -58,4 +58,5 @@ source venv/bin/activate
 pip install -r requirements.txt #[for installing the needed libs for support of running app]
 ```
 ## Tip:
-**you csn make python file into .exe
+**you can make python file into .exe
+**If you want pre-mage one download this file by clickin here: https://drive.google.com/file/d/1cE-qh4ZG1lEhfwo5gD1lWkkBUzfu5N1c/view?usp=sharing
