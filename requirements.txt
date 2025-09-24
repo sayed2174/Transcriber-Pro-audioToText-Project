@@ -1,0 +1,9 @@
+openai-whisper
+PySide6
+pydub
+sounddevice
+numpy
+torch
+python-dotenv
+soundfile
+requests
