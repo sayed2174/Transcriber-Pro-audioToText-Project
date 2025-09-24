@@ -56,4 +56,6 @@ source venv/bin/activate
 ## copy the .py file into venv folder which is an python virtual machine setup
 
 ## pip install -r requirements.txt [for installing the needed libs for support of running app]
+```
+
 
